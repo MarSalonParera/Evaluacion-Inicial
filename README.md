@@ -12,3 +12,7 @@ Una pagina web es un document de web, normalment aquest format es HTML.
  
  ¿Qué es una herramienta ofimática? 
  
+Herramientas de goolgle
+
+|Applicacions| |Vist|
+|google DOCS| |
