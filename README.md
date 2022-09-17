@@ -14,10 +14,10 @@ Una pagina web es un document de web, normalment aquest format es HTML.
  
 Herramientas de goolgle
 
- |Applicacions|Vist|
-   |google Docs|✔️|
-|google Sliders|✔️|
+ |Applicaciones|Visto|
+ |google Docs|✔️|
+ |google Sliders|✔️|
  |Google Sheets|✔️|
  |Google Calender|📅|
-     |Google Meet|💻|
+ |Google Meet|💻|
  |...|...|
