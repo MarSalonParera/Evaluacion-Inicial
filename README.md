@@ -44,4 +44,4 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los elementos HTML deberían ser mostrados. 
 
 Flujo de trabajo (navegador, petición, servidor y respuesta):
-![imagen](/Imagenes/imagen2.png)
+ ![imagen](/Imagenes/img.png)
