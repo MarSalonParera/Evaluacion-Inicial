@@ -11,8 +11,8 @@ Una pagina web es un document de web, normalment aquest format es HTML.
  És una aplicació a la que s'accedeix utilitzant com a client un navegador web usant el protocol TCP/IP, ja sigui a través d'internet o d'una intranet.
  
  ¿Qué es una herramienta ofimática? 
- És 
- 
+ Actualment, les eines ofimàtiques són un conjunt de programes o programari conegutd com a suites ofimàtiques. Aquest conjunt de programes inclou diferents tipus d'eines amb elements comuns amb què és possible treballar de manera unificada, així com compartir dades entre els diferents programes. 
+
 Herramientas de goolgle
 
  |Applicaciones|Visto|
