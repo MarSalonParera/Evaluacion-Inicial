@@ -20,4 +20,4 @@ Herramientas de goolgle
 |Google Sheets|✔️|
 |Google Calender|📅|
 |Google Meet|💻|
-|...|...|
+ |...|...|
