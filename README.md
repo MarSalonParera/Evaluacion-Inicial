@@ -4,7 +4,7 @@ Es una practica
 ¿Qué es una página web? 
 Una pagina web es un document de web, normalment aquest format es HTML. 
 
-. ¿Qué es un sitio web? 
+ ¿Qué es un sitio web? 
 És una col·lecció de pàgines web, imatges, vídeos i altres elements digitals servida per un únic domini d'internet. Un lloc web està allotjat almenys en un servidor web, a què es pot accedir via Internet o una Xarxa d'Àrea Local. 
 
 ¿Qué es una aplicación web? 
@@ -24,7 +24,7 @@ Herramientas de goolgle
  |Google Meet|💻|
  |...|...|
  
-. ¿Qué es HTML ? 
+ ¿Qué es HTML ? 
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web. 
 
 ```
